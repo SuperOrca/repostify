@@ -1,0 +1,22 @@
+{
+    "screen": { "width": 508, "height": 1080 },
+    "reddit": {
+        "id": "",
+        "secret": "",
+        "subreddits": ["AmItheAsshole"],
+        "length": {
+            "min": 500,
+            "max": 1500
+        },
+        "time_filter": "week"
+    },
+    "excess": 2,
+    "background": "background.mp4",
+    "text": {
+        "words": 10,
+        "height": 300,
+        "font": "Roboto-Medium.ttf",
+        "size": 30,
+        "width": 40
+    }
+}
