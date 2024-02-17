@@ -131,7 +131,7 @@ speechbrain==0.5.16
 SQLAlchemy==2.0.27
 srt==3.5.3
 stable-ts==2.13.3
-streamlit==1.20.0
+streamlit==1.30.0
 streamlit-aggrid==0.3.4.post3
 streamlit-player==0.1.5
 subsai @ git+https://github.com/abdeladim-s/subsai@fb1ceb7ae189269549e60ca53408e144895ba7a0
